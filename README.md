@@ -1,4 +1,4 @@
-# The Textual Analysis on Fashion Blog Articles Over Time (insert header image)
+# The Textual Analysis on Fashion Blog Articles Over Time <img width="1040" alt="Screen Shot 2022-06-19 at 6 33 21 PM" src="https://user-images.githubusercontent.com/106109832/174510328-37aade35-50dc-4b42-a727-0db84aa5d00d.png">
 
 
 **Abstract:**
